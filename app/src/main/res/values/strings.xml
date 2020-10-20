@@ -1,0 +1,6 @@
+<resources>
+
+    <!-- Español -->
+    <string name="app_name" translatable="false">HolaMundo</string>
+    <string name="saludo">¡Hola Mundo!</string>
+</resources>
